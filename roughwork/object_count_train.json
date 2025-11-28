@@ -1,0 +1,320 @@
+{
+    "P2779_0009.png": {
+        "vehicle": 5
+    },
+    "P1557_0063.png": {
+        "bridge": 1
+    },
+    "P2794_0023.png": {
+        "vehicle": 2
+    },
+    "P0551_0004.png": {
+        "harbor": 1
+    },
+    "P0882_0007.png": {
+        "swimming-pool": 1,
+        "basketball-court": 1,
+        "vehicle": 1
+    },
+    "09915_0000.png": {
+        "vehicle": 1
+    },
+    "08203_0000.png": {
+        "vehicle": 3
+    },
+    "P1143_0102.png": {
+        "airplane": 1
+    },
+    "P1179_0032.png": {
+        "vehicle": 2
+    },
+    "P5070_0001.png": {
+        "vehicle": 1
+    },
+    "P1384_0020.png": {
+        "swimming-pool": 3
+    },
+    "P2286_0015.png": {
+        "baseball-diamond": 1
+    },
+    "P2003_0010.png": {
+        "vehicle": 2
+    },
+    "11490_0000.png": {
+        "vehicle": 1,
+        "overpass": 1,
+        "expressway-service-area": 1
+    },
+    "10993_0000.png": {
+        "airplane": 1
+    },
+    "07445_0000.png": {
+        "storage-tank": 1
+    },
+    "P2337_0016.png": {
+        "storage-tank": 2
+    },
+    "10314_0000.png": {
+        "dam": 1
+    },
+    "P5789_0272.png": {
+        "ship": 1
+    },
+    "P0953_0010.png": {
+        "harbor": 1,
+        "ship": 1
+    },
+    "09965_0000.png": {
+        "chimney": 1
+    },
+    "10391_0000.png": {
+        "harbor": 1,
+        "ship": 1
+    },
+    "P1356_0035.png": {
+        "bridge": 1
+    },
+    "P0173_0001.png": {
+        "vehicle": 1,
+        "airplane": 2
+    },
+    "P1440_0001.png": {
+        "basketball-court": 1
+    },
+    "08370_0000.png": {
+        "expressway-toll-station": 1
+    },
+    "10467_0000.png": {
+        "golffield": 1,
+        "baseball-diamond": 1
+    },
+    "09614_0000.png": {
+        "vehicle": 1,
+        "airplane": 1
+    },
+    "P1809_0173.png": {
+        "airplane": 1
+    },
+    "09535_0000.png": {
+        "harbor": 2,
+        "ship": 2
+    },
+    "P6089_0002.png": {
+        "vehicle": 4
+    },
+    "10937_0000.png": {
+        "tennis-court": 1
+    },
+    "06391_0000.png": {
+        "airplane": 1
+    },
+    "06353_0000.png": {
+        "expressway-service-area": 1
+    },
+    "P0970_0023.png": {
+        "vehicle": 1
+    },
+    "P1179_0042.png": {
+        "airplane": 3
+    },
+    "10920_0000.png": {
+        "ground-track-field": 1
+    },
+    "11155_0000.png": {
+        "vehicle": 1
+    },
+    "P7431_0006.png": {
+        "harbor": 1
+    },
+    "08799_0000.png": {
+        "tennis-court": 2
+    },
+    "P1854_0093.png": {
+        "vehicle": 2
+    },
+    "06214_0000.png": {
+        "stadium": 1
+    },
+    "P1471_0074.png": {
+        "vehicle": 3
+    },
+    "06710_0000.png": {
+        "tennis-court": 2
+    },
+    "07099_0000.png": {
+        "vehicle": 2
+    },
+    "06182_0000.png": {
+        "airport": 1
+    },
+    "P0929_0017.png": {
+        "harbor": 2
+    },
+    "P1342_0024.png": {
+        "bridge": 1,
+        "soccer-ball-field": 1
+    },
+    "P0179_0028.png": {
+        "airplane": 1
+    },
+    "08293_0000.png": {
+        "ship": 1,
+        "vehicle": 1
+    },
+    "P1065_0038.png": {
+        "harbor": 1
+    },
+    "P0186_0001.png": {
+        "tennis-court": 2
+    },
+    "P1854_0000.png": {
+        "airplane": 1
+    },
+    "09658_0000.png": {
+        "vehicle": 2
+    },
+    "P1390_0050.png": {
+        "airplane": 3
+    },
+    "P1386_0066.png": {
+        "ship": 2
+    },
+    "P1323_0060.png": {
+        "bridge": 1
+    },
+    "06050_0000.png": {
+        "stadium": 1,
+        "ground-track-field": 1
+    },
+    "P1410_0071.png": {
+        "vehicle": 4
+    },
+    "P1456_0003.png": {
+        "basketball-court": 2
+    },
+    "10870_0000.png": {
+        "vehicle": 2
+    },
+    "10347_0000.png": {
+        "dam": 1
+    },
+    "P0331_0008.png": {
+        "swimming-pool": 1,
+        "vehicle": 3
+    },
+    "09641_0000.png": {
+        "ship": 2
+    },
+    "09691_0000.png": {
+        "airplane": 1
+    },
+    "09410_0000.png": {
+        "ground-track-field": 1
+    },
+    "06367_0000.png": {
+        "trainstation": 1
+    },
+    "P2592_0001.png": {
+        "vehicle": 1
+    },
+    "P2197_0006.png": {
+        "vehicle": 1
+    },
+    "09974_0000.png": {
+        "trainstation": 1
+    },
+    "06508_0000.png": {
+        "ground-track-field": 1
+    },
+    "09780_0000.png": {
+        "windmill": 4
+    },
+    "08492_0000.png": {
+        "expressway-service-area": 1
+    },
+    "08892_0000.png": {
+        "dam": 1
+    },
+    "P1376_0013.png": {
+        "vehicle": 1
+    },
+    "06604_0000.png": {
+        "dam": 1
+    },
+    "P2718_0022.png": {
+        "bridge": 1
+    },
+    "06414_0000.png": {
+        "airport": 1
+    },
+    "11439_0000.png": {
+        "windmill": 2
+    },
+    "08424_0000.png": {
+        "vehicle": 2
+    },
+    "P0336_0004.png": {
+        "harbor": 1,
+        "ship": 2
+    },
+    "07461_0000.png": {
+        "storage-tank": 1
+    },
+    "10203_0000.png": {
+        "windmill": 1
+    },
+    "P1601_0050.png": {
+        "storage-tank": 2
+    },
+    "P0579_0003.png": {
+        "ship": 1
+    },
+    "09903_0000.png": {
+        "baseball-diamond": 1,
+        "vehicle": 1
+    },
+    "P0491_0008.png": {
+        "baseball-diamond": 1
+    },
+    "P5789_1920.png": {
+        "airplane": 2
+    },
+    "09184_0000.png": {
+        "storage-tank": 1
+    },
+    "09544_0000.png": {
+        "airplane": 1
+    },
+    "P2570_0000.png": {
+        "ground-track-field": 1
+    },
+    "P1007_0041.png": {
+        "harbor": 2,
+        "ship": 2
+    },
+    "P5337_0003.png": {
+        "ship": 3
+    },
+    "P1268_0037.png": {
+        "ship": 1
+    },
+    "P2124_0007.png": {
+        "vehicle": 1
+    },
+    "P8601_0000.png": {
+        "harbor": 2,
+        "ship": 2
+    },
+    "11546_0000.png": {
+        "dam": 1
+    },
+    "P2758_0003.png": {
+        "ship": 1
+    },
+    "11085_0000.png": {
+        "vehicle": 2
+    },
+    "P2745_0008.png": {
+        "storage-tank": 1
+    }
+}
